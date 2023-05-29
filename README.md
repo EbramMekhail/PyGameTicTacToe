@@ -31,12 +31,10 @@ This is a simple implementation of the Tic Tac Toe game using Python and Pygame.
     ```bash
     pip install -r requirements.txt
 
-
 ## Usage
 
 Run the game by executing the following command:
 
-    ```
     python tic_tac_toe.py
 
 
@@ -45,7 +43,9 @@ The game will launch with a start menu. Select the desired option to play agains
 ## Screenshots
 
 ![Start Menu](screenshots/start_menu.png)
+
 ![Gameplay](screenshots/gameplay.png)
+
 ![Game Over](screenshots/game_over.png)
 
 ## Contributing
